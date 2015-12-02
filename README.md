@@ -8,3 +8,5 @@ Today, we'll be wrapping up and presenting our group projects, as well as doing 
 
 2. Once your Fwitter is up and running, get more practice using Sessions with the Sinatra Sessions ToDo. It'll walk you through writing different data into the session hash. 
 
+
+<a href='https://learn.co/lessons/hs-advanced-software-engineering-day-6-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
